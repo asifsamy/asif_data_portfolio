@@ -28,6 +28,8 @@ As a data analyst with a background in Software Development, I can bring a uniqu
 
 <a href="https://workspace.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Workspace_Logo.svg" alt="googleworkspace" width="40" height="40"/> </a>
 
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/asifsamy/asif_data_portfolio/blob/432cb2af0d9bdea1c02af9de5ddaf0c189c74851/tableau-svgrepo-com.svg" alt="tableau" width="40" height="40"/> </a>
+
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual-studio" width="40" height="40"/></a>
 
 <a href="http://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupiter" width="40" height="40"/></a>
@@ -37,3 +39,11 @@ As a data analyst with a background in Software Development, I can bring a uniqu
 ### Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asifsamy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/s-m-asif-al-samy-80bb3510b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/asif.samy1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asif.samy//)
+
+
+### List of Projects
+
+#### [Project 1: Analyzing Superstore Giant Dataset using Spreadsheet](https://drive.google.com/drive/u/3/folders/1MUuasILj-giRBJ4Munk-FQb8sl0svm5u)
+
+The task is to identify which products and categories of a Giant Superstore should be managed/avoided/targeted to increase profit and decrease loss. The entire solution is done in google spreadsheet with the operations such as Data visualization, Data cleaning, Pivot tables insertion, etc.
+N.B. Click on the project title to explore the project.
