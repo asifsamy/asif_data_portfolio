@@ -28,7 +28,7 @@ As a data analyst with a background in Software Development, I can bring a uniqu
 
 <a href="https://workspace.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Workspace_Logo.svg" alt="googleworkspace" width="40" height="40"/> </a>
 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/asifsamy/asif_data_portfolio/blob/432cb2af0d9bdea1c02af9de5ddaf0c189c74851/tableau-svgrepo-com.svg" alt="tableau" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/asifsamy/asif_data_portfolio/blob/master/tableau-svgrepo-com.svg" alt="tableau" width="40" height="40"/> </a>
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual-studio" width="40" height="40"/></a>
 
