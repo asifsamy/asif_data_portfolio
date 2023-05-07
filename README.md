@@ -3,7 +3,7 @@
 
 As a data analyst with a background in Software Development, I can bring a unique perspective to the data-driven projects. My skills in Python, SQL, and Spreadsheets combined with my experience in software development, allow me to not only analyze and interpret data but also collect, store, process, and transform data into a format that supports data-driven applications and analysis. I am passionate about using data to drive business decisions and am constantly seeking out new opportunities to learn and grow in this area.
 
-- 🔭 I’m currently working on some academic projects / applications 
+- 🔭 I’m currently working on some academic projects 
 - 🌱 I’m currently Persuing a Data Analytics bootcamp @ Masterschool 
 - 👯 I’m looking to collaborate on the data industries 
 - 💬 Ask me about Data Anlysis
