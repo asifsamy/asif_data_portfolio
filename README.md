@@ -39,11 +39,44 @@ As a data analyst with a background in Software Development, I can bring a uniqu
 ### Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asifsamy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/s-m-asif-al-samy-80bb3510b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/asif.samy1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asif.samy//)
+</br></br>
 
-
-### List of Projects
-
-#### [Project 1: Analyzing Superstore Giant Dataset using Spreadsheet](https://drive.google.com/drive/u/3/folders/1MUuasILj-giRBJ4Munk-FQb8sl0svm5u)
+## List of Projects
+### [Project 1: Analyzing Superstore Giant Dataset using Spreadsheet](https://drive.google.com/drive/u/3/folders/1MUuasILj-giRBJ4Munk-FQb8sl0svm5u)
 
 The task is to identify which products and categories of a Giant Superstore should be managed/avoided/targeted to increase profit and decrease loss. The entire solution is done in google spreadsheet with the operations such as Data visualization, Data cleaning, Pivot tables insertion, etc.
-N.B. Click on the project title to explore the project.
+</br>N.B. Click on the project title to explore the project.
+
+### [Project 2: Financial Analytics in Spreadsheets](https://drive.google.com/drive/u/3/folders/1aftFsgw8yVhoFgCKV1X16CZr7KUkvtHf)
+
+Monitoring the evolution of traded assets is key in finance. In this project, a graphical dashboard with spreadsheets has been built to track the performance of financial securities. A focus was established on the historical prices and dividends of the hypothetical stock ABC. </br>
+Overall, a visualization of prices, measurement of essential reward and risk indicators, and monitoring if the investment in ABC outperformed a benchmark index or not, etc have been performed in this project. Lastly, in this project, spreadsheets were used to build great monitoring tools used by traders and financial analysts in their day-to-day business life.
+</br>N.B. Click on the project title to explore the project.
+
+### [Project 3: Deforestation Exploration using SQL](https://drive.google.com/file/d/1FzeLdQxBFweIcsV7KxH_kCjBGZBX9vqn/view)
+
+ForestQuery, is a non-profit organization, on a mission to reduce deforestation around the world and raises awareness about this important environmental topic.</br>
+Our executive director and her leadership team members are looking to understand which countries and regions around the world seem to have forests that have been shrinking in size, and also which countries and regions have the most significant forest area, both in terms of amount and percent of total area. The hope is that these findings can help inform initiatives, communications, and personnel allocation to achieve the largest impact with the precious few resources that the organization has at its disposal.</br>
+I have been able to find tables of data online dealing with forestation as well as total land area and region groupings, and I’ve brought these tables together into a database that I would like to query to answer some of the most important questions in preparation for a meeting with the ForestQuery executive team coming up in a few days. Ahead of the meeting, I would like to prepare and disseminate a report for the leadership team that uses complete sentences to help them understand the global deforestation overview between 1990 and 2016.
+</br>N.B. Click on the project title to explore the project.
+
+### [Project 4: Student Performance Data Analysis](https://www.kaggle.com/code/smasifalsamy/students-perfomance-analysis)
+
+The entire data has been analyzed using Python with its necessary libraries. By analyzing this data I have done some visualizations with performing descriptive statistics. The analyses include a portion of male, and female students and their statistical distribution and visualization of math scores. The category of completeness of test preparation has also been filtered in the dataset to see the performance of overall male and female students.
+</br>N.B. Click on the project title to explore the project.
+
+### [Project 5: Climate Change (a time-series) Data Analysis](https://www.kaggle.com/code/smasifalsamy/climate-change-time-series)
+
+Many kinds of data are organized as time-series, and visualizations of time-series are an excellent tool to detect patterns in the data. In this project, a dataset, that contains records of the change in climate in the last half a century or so, has been analyzed. The column "co2" contains measurements of the carbon dioxide in the atmosphere and the column "relative-underscore-temp" denotes the temperature measured at this date, relative to a baseline which is the average temperature in the first ten years of measurements. This time series data has been plotted based on different variables and also an annotation has been used in this dataset.
+</br>N.B. Click on the project title to explore the project.
+
+### [Project 6: Quantitative comparisons and statistical visualizations](https://www.kaggle.com/code/smasifalsamy/quantitative-comparison)
+
+This project was done using Python with its necessary library. The main idea of this project was to show different types of plots (ideally pyplot from matplotlib) in terms of visualizations. As a result, 3 different datasets were used to accompany the analyses.
+</br>N.B. Click on the project title to explore the project.
+
+### [Project 7: Hypothesis Testing](https://drive.google.com/drive/u/3/folders/1hTG5INKJLjl1FeMRjvCpHjzFVxxUw1zu)
+
+A university cafe aims to sell 6 cookies per day on average to meet their quota. The manager is worried and decides to collect data on the daily cookie sales for 10 weeks of the year to predict whether the cafe will manage to meet its average daily quota for the whole year. If they are predicted to sell less than their quota, they will need to reduce cookie production to save costs.
+</br>N.B. Click on the project title to explore the project.
+
