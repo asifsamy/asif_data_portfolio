@@ -53,7 +53,7 @@ Monitoring the evolution of traded assets is key in finance. In this project, a 
 Overall, a visualization of prices, measurement of essential reward and risk indicators, and monitoring if the investment in ABC outperformed a benchmark index or not, etc have been performed in this project. Lastly, in this project, spreadsheets were used to build great monitoring tools used by traders and financial analysts in their day-to-day business life.
 </br>N.B. Click on the project title to explore the project.
 
-### [Project 3: Deforestation Exploration using SQL](https://drive.google.com/file/d/1FzeLdQxBFweIcsV7KxH_kCjBGZBX9vqn/view)
+### [Project 3: Deforestation Exploration using SQL](https://github.com/asifsamy/deforestation-sql)
 
 ForestQuery, is a non-profit organization, on a mission to reduce deforestation around the world and raises awareness about this important environmental topic.</br>
 Our executive director and her leadership team members are looking to understand which countries and regions around the world seem to have forests that have been shrinking in size, and also which countries and regions have the most significant forest area, both in terms of amount and percent of total area. The hope is that these findings can help inform initiatives, communications, and personnel allocation to achieve the largest impact with the precious few resources that the organization has at its disposal.</br>
