@@ -43,14 +43,19 @@ As a data analyst with a background in Software Development, I can bring a uniqu
 
 ## List of Projects
 
-### [Project: Video Games Sales Data (1980-2010) Analysis in Tableau](https://github.com/asifsamy/video_games-sales-1980-2010--analysis)
-
-The dataset on video game sales from 1980 to 2010 will let us take a tour through gaming history! Some questions would be solved in order to perform the analysis and those include: what is the most sold video game, or which gaming genre was the most popular in the early 2000's? Moreover, we could even filter for our old favorite video game to see how many other people enjoyed it! At the end, we would have a story with some dashboards in Tableua for this data analysis.
-</br>N.B. Click on the project title to explore the project.
-
 ### [Project: KPI-Dashboard-of-Call_Center_Data_2022](https://github.com/asifsamy/KPI-Dashboard-of-Call_Center_Data_2022)
 
 In this project a dataset of a Call Center has been analyzed using Tableau public. The dataset holds 14 fields but only 7 of them have been used to perform the analyses. There are extra 3 computed fields were created to accompany the analyses. The analysis brought up some KPI cards and their complementary viualizations and lastly, a KPI Dashboard using Tableau containers.
+</br>N.B. Click on the project title to explore the project.
+
+### [Project: Chickagos's Bike Sharing Data Analysis using Tableau](https://github.com/asifsamy/chickago-bike-sharing-01)
+
+Divvy is Chicago's bike sharing system. With the city of Chicago, Divvy publishes historical trip data and makes it available for public use. Trip data spans back as early as 2013. That's a lot of data, so the focus was on trips from the first half of 2019. In this project a detail-rich map visualizations with date and time fields configurations have been performed to show trends over time. and the data was extended also using Calculated Fields. A case study over customer analytics was successfully completed.  
+</br>N.B. Click on the project title to explore the project.
+
+### [Project: Video Games Sales Data (1980-2010) Analysis in Tableau](https://github.com/asifsamy/video_games-sales-1980-2010--analysis)
+
+The dataset on video game sales from 1980 to 2010 will let us take a tour through gaming history! Some questions would be solved in order to perform the analysis and those include: what is the most sold video game, or which gaming genre was the most popular in the early 2000's? Moreover, we could even filter for our old favorite video game to see how many other people enjoyed it! At the end, we would have a story with some dashboards in Tableua for this data analysis.
 </br>N.B. Click on the project title to explore the project.
 
 ### [Project: Student Performance Data Analysis](https://www.kaggle.com/code/smasifalsamy/students-perfomance-analysis)
