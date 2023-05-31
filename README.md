@@ -43,6 +43,11 @@ As a data analyst with a background in Software Development, I can bring a uniqu
 
 ## List of Projects
 
+### [Project: Insurance Policies - Pareto Analysis](https://github.com/asifsamy/insurance_pareto)
+
+In this anlysis, a dataset of Insurance Policies has been visualized by different methodologies of Tableau Public such as Grouping, Set operations, Quick table calculations, Creating calculated field, Creating some parameter to visualize for Top N Values, and so on. The dataset has 19 fields/columns and more than 35 thousands records of data. However, the number of focused columns were only 5 in this project and those are ID, Gender, Marital Status, Education, and Car Make. Along with some general visualizations, the main tasks were to visualize Top N Car Companies were claimed for insurance and create a pareto analysis over the insurance claimer based on their gender, marital status, and education.<br />
+N.B. Click on the project title to explore the project.
+
 ### [Project: KPI-Dashboard-of-Call_Center_Data_2022](https://github.com/asifsamy/KPI-Dashboard-of-Call_Center_Data_2022)
 
 In this project a dataset of a Call Center has been analyzed using Tableau public. The dataset holds 14 fields but only 7 of them have been used to perform the analyses. There are extra 3 computed fields were created to accompany the analyses. The analysis brought up some KPI cards and their complementary viualizations and lastly, a KPI Dashboard using Tableau containers.<br />
