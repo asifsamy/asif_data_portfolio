@@ -48,7 +48,7 @@ As a data analyst with a background in Software Development, I can bring a uniqu
 The entire visualization with data cleaning, data management, and creating story points was done on Taleau Public. To understand the meaning of every column in the US Census dataset, you should go to Kaggle. The data here are taken from the DP03 and DP05 tables of the 2015 American Community Survey 5-year estimates. The visualization includes 3 story points:
 1. The best states of transportation
 2. Top income earning states and top poverty rating states with the exploration of the occupation rates.
-3. The explorations of top and bottom income per capita states and their ethnicity ratios.<br />
+3. The explorations of top and bottom income per capita states and their ethnicity ratios.<br /> <br />
 N.B. Click on the project title to explore the project.
 
 ### [Project: Insurance Policies - Pareto Analysis](https://github.com/asifsamy/insurance_pareto)
