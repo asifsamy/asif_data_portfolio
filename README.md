@@ -39,9 +39,17 @@ As a data analyst with a background in Software Development, I can bring a uniqu
 ### Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asifsamy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/s-m-asif-al-samy-80bb3510b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/asif.samy1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asif.samy//)
-</br></br>
+<br /><br />
 
 ## List of Projects
+
+### [Project: US Census Demographic Data Visualization](https://github.com/asifsamy/US-census-data-viz)
+
+The entire visualization with data cleaning, data management, and creating story points was done on Taleau Public. To understand the meaning of every column in the US Census dataset, you should go to Kaggle. The data here are taken from the DP03 and DP05 tables of the 2015 American Community Survey 5-year estimates. The visualization includes 3 story points:
+1. The best states of transportation
+2. Top income earning states and top poverty rating states with the exploration of the occupation rates.
+3. The explorations of top and bottom income per capita states and their ethnicity ratios.<br />
+N.B. Click on the project title to explore the project.
 
 ### [Project: Insurance Policies - Pareto Analysis](https://github.com/asifsamy/insurance_pareto)
 
