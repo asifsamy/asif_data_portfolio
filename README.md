@@ -43,6 +43,14 @@ As a data analyst with a background in Software Development, I can bring a uniqu
 
 ## List of Projects
 
+### [Project: A/B Testing of GloBox - an Online Marketplace](https://github.com/asifsamy/A-B_Testing_GloBox)
+
+In this project, an A/B test has been performed and the results of the test have also been analyzed. A complete report of data-driven recommendations based on our findings was created. The project features three stages:
+1. Extracting the user-level aggregated dataset using SQL
+2. Analyzing the A/B test results using statistical methods in spreadsheets and visualizations in Tableau
+3. Creating a written report of the A/B test results and optionally recording a video presentation<br /> <br />
+N.B. Click on the project title to explore the project.
+
 ### [Project: US Census Demographic Data Visualization](https://github.com/asifsamy/US-census-data-viz)
 
 The entire visualization with data cleaning, data management, and creating story points was done on Taleau Public. To understand the meaning of every column in the US Census dataset, you should go to Kaggle. The data here are taken from the DP03 and DP05 tables of the 2015 American Community Survey 5-year estimates. The visualization includes 3 story points:
